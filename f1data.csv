@@ -1,0 +1,388 @@
+unique circuitNames,year,constructorId,bestLapTime,GPName,circuitName
+Albert Park Grand Prix Circuit,2000,1,01:30.6,Australian Grand Prix,Albert Park Grand Prix Circuit
+A1-Ring,2000,1,01:10.410,Brazilian Grand Prix,A1-Ring
+Circuit de Spa-Francorchamps,2000,1,01:50.646,San Marino Grand Prix,Circuit de Spa-Francorchamps
+Autódromo José Carlos Pace,2000,6,01:14.111,British Grand Prix,Autódromo José Carlos Pace
+Silverstone Circuit,2000,6,01:25.7,Spanish Grand Prix,Silverstone Circuit
+Circuit Gilles Villeneuve,2000,1,01:18.439,European Grand Prix,Circuit Gilles Villeneuve
+Nürburgring,2000,6,01:17.529,Monaco Grand Prix,Nürburgring
+Circuit de Nevers Magny-Cours,2000,6,01:15.632,Canadian Grand Prix,Circuit de Nevers Magny-Cours
+Hockenheimring,2000,6,01:44.300,French Grand Prix,Hockenheimring
+Hungaroring,2000,1,01:17.514,Austrian Grand Prix,Hungaroring
+Autodromo Nazionale di Monza,2000,6,01:23.770,German Grand Prix,Autodromo Nazionale di Monza
+Suzuka Circuit,2000,6,01:35.8,Hungarian Grand Prix,Suzuka Circuit
+Sepang International Circuit,2000,1,01:37.397,Belgian Grand Prix,Sepang International Circuit
+Circuit de Monaco,2000,6,01:19.475,Italian Grand Prix,Circuit de Monaco
+Autodromo Enzo e Dino Ferrari,2000,6,01:24.7,United States Grand Prix,Autodromo Enzo e Dino Ferrari
+Circuit de Barcelona-Catalunya,2000,6,01:20.974,Japanese Grand Prix,Circuit de Barcelona-Catalunya
+Indianapolis Motor Speedway,2000,6,01:14.266,Malaysian Grand Prix,Indianapolis Motor Speedway
+Bahrain International Circuit,2001,6,01:26.892,Australian Grand Prix,Albert Park Grand Prix Circuit
+Shanghai International Circuit,2001,6,01:09.562,Malaysian Grand Prix,A1-Ring
+Istanbul Park,2001,6,01:49.758 ,Brazilian Grand Prix,Circuit de Spa-Francorchamps
+Fuji Speedway,2001,1,01:13.780,San Marino Grand Prix,Autódromo José Carlos Pace
+Valencia Street Circuit,2001,6,01:20.447,Spanish Grand Prix,Silverstone Circuit
+Marina Bay Street Circuit,2001,6,01:15.782,Austrian Grand Prix,Circuit Gilles Villeneuve
+Yas Marina Circuit,2001,1,01:14.960,Monaco Grand Prix,Nürburgring
+Korean International Circuit,2001,6,01:12.989,Canadian Grand Prix,Circuit de Nevers Magny-Cours
+Buddh International Circuit,2001,6,01:38.117,European Grand Prix,Hockenheimring
+Circuit of the Americas,2001,3,01:14.082,French Grand Prix,Hungaroring
+Red Bull Ring,2001,6,01:22.216,British Grand Prix,Autodromo Nazionale di Monza
+Sochi Autodrom,2001,3,01:31.317,German Grand Prix,Suzuka Circuit
+Autódromo Hermanos Rodríguez,2001,6,01:35.220,Hungarian Grand Prix,Sepang International Circuit
+Baku City Circuit,2001,6,01:17.430,Belgian Grand Prix,Circuit de Monaco
+Circuit Paul Ricard,2001,3,01:23.054,Italian Grand Prix,Autodromo Enzo e Dino Ferrari
+Autódromo Internacional do Algarve,2001,6,01:18.201,United States Grand Prix,Circuit de Barcelona-Catalunya
+Bahrain International Circuit 1,2001,6,01:11.7,Japanese Grand Prix,Indianapolis Motor Speedway
+Autodromo Internazionale del Mugello,2002,6,01:25.843, Australian Grand Prix,Albert Park Grand Prix Circuit
+,2002,6,01:08.082,Malaysian Grand Prix,A1-Ring
+,2002,3,01:43.726,Brazilian Grand Prix,Circuit de Spa-Francorchamps
+,2002,6,01:13.114,San Marino Grand Prix,Autódromo José Carlos Pace
+,2002,6,01:18.998,Spanish Grand Prix,Silverstone Circuit
+,2002,6,01:12.836,Austrian Grand Prix,Circuit Gilles Villeneuve
+,2002,3,01:29.906,Monaco Grand Prix,Nürburgring
+,2002,3,01:11.985,Canadian Grand Prix,Circuit de Nevers Magny-Cours
+,2002,3,01:14.389,European Grand Prix,Hockenheimring
+,2002,3,01:13.333,British Grand Prix,Hungaroring
+,2002,3,01:20.264,French Grand Prix,Autodromo Nazionale di Monza
+,2002,6,01:31.3,German Grand Prix,Suzuka Circuit
+,2002,6,01:35.3,Hungarian Grand Prix,Sepang International Circuit
+,2002,6,01:16.676,Belgian Grand Prix,Circuit de Monaco
+,2002,3,01:21.091,Italian Grand Prix,Autodromo Enzo e Dino Ferrari
+,2002,6,01:16.364,United States Grand Prix,Circuit de Barcelona-Catalunya
+,2002,6,01:10.790,Japanese Grand Prix,Indianapolis Motor Speedway
+,2003,6,01:27.2,Australian Grand Prix,Albert Park Grand Prix Circuit
+,2003,4,01:09.1,Malaysian Grand Prix,A1-Ring
+,2003,6,01:13.8,Brazilian Grand Prix,Autódromo José Carlos Pace
+,2003,6,01:21.2,San Marino Grand Prix,Silverstone Circuit
+,2003,6,01:15.5,Spanish Grand Prix,Circuit Gilles Villeneuve
+,2003,6,01:31.5,Austrian Grand Prix,Nürburgring
+,2003,131,01:15.0,Monaco Grand Prix,Circuit de Nevers Magny-Cours
+,2003,3,01:15.2,Canadian Grand Prix,Hockenheimring
+,2003,1,01:21.7,European Grand Prix,Hungaroring
+,2003,3,01:21.0,French Grand Prix,Autodromo Nazionale di Monza
+,2003,6,01:31.7,British Grand Prix,Suzuka Circuit
+,2003,3,01:37.0,German Grand Prix,Sepang International Circuit
+,2003,4,01:14.545,Hungarian Grand Prix,Circuit de Monaco
+,2003,6,01:22.3,Italian Grand Prix,Autodromo Enzo e Dino Ferrari
+,2003,1,01:17.8,United States Grand Prix,Circuit de Barcelona-Catalunya
+,2003,6,01:11.7,Japanese Grand Prix,Indianapolis Motor Speedway
+,2004,6,01:24.4,Australian Grand Prix,Albert Park Grand Prix Circuit
+,2004,6,01:30.1,Malaysian Grand Prix,Bahrain International Circuit
+,2004,6,01:56.2,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2004,16,01:10.6,San Marino Grand Prix,Autódromo José Carlos Pace
+,2004,6,01:18.2,Spanish Grand Prix,Silverstone Circuit
+,2004,4,01:12.3,Monaco Grand Prix,Circuit Gilles Villeneuve
+,2004,6,01:34.0,European Grand Prix,Shanghai International Circuit
+,2004,3,01:28.4,Canadian Grand Prix,Nürburgring
+,2004,6,01:13.7,United States Grand Prix,Circuit de Nevers Magny-Cours
+,2004,4,01:13.3,French Grand Prix,Hockenheimring
+,2004,1,01:19.1,British Grand Prix,Hungaroring
+,2004,6,01:20.1,German Grand Prix,Autodromo Nazionale di Monza
+,2004,6,01:33.5,Hungarian Grand Prix,Suzuka Circuit
+,2004,4,01:33.1,Belgian Grand Prix,Sepang International Circuit
+,2004,6,01:14.0,Italian Grand Prix,Circuit de Monaco
+,2004,6,01:19.8,Chinese Grand Prix,Autodromo Enzo e Dino Ferrari
+,2004,6,01:15.0,Japanese Grand Prix,Circuit de Barcelona-Catalunya
+,2004,6,01:10.2,Brazilian Grand Prix,Indianapolis Motor Speedway
+,2005,4,01:28.3,Australian Grand Prix,Albert Park Grand Prix Circuit
+,2005,4,01:29.8,Malaysian Grand Prix,Bahrain International Circuit
+,2005,4,01:46.4,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2005,1,01:12.0,San Marino Grand Prix,Autódromo José Carlos Pace
+,2005,1,01:19.9,Spanish Grand Prix,Silverstone Circuit
+,2005,1,01:15.2,Monaco Grand Prix,Circuit Gilles Villeneuve
+,2005,3,01:34.1,European Grand Prix,Shanghai International Circuit
+,2005,16,01:30.1,Canadian Grand Prix,Nürburgring
+,2005,7,01:14.4,United States Grand Prix,Circuit de Nevers Magny-Cours
+,2005,4,01:14.3,French Grand Prix,Hockenheimring
+,2005,4,01:19.9,British Grand Prix,Hungaroring
+,2005,1,01:20.9,German Grand Prix,Autodromo Nazionale di Monza
+,2005,6,01:46.1,Hungarian Grand Prix,Suzuka Circuit
+,2005,1,01:32.6,Turkish Grand Prix,Sepang International Circuit
+,2005,1,01:13.6,Italian Grand Prix,Circuit de Monaco
+,2005,1,01:19.9,Belgian Grand Prix,Autodromo Enzo e Dino Ferrari
+,2005,4,01:14.8,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2005,7,01:26.8,Japanese Grand Prix,Istanbul Park
+,2005,4,01:10.6,Chinese Grand Prix,Indianapolis Motor Speedway
+,2006,6,01:25.2,Bahrain Grand Prix,Albert Park Grand Prix Circuit
+,2006,4,01:31.431,Malaysian Grand Prix,Bahrain International Circuit
+,2006,11,01:10.6,Australian Grand Prix,Autódromo José Carlos Pace
+,2006,6,01:20.3,San Marino Grand Prix,Silverstone Circuit
+,2006,4,01:14.7,European Grand Prix,Circuit Gilles Villeneuve
+,2006,4,01:44.0,Spanish Grand Prix,Shanghai International Circuit
+,2006,4,01:29.8,Monaco Grand Prix,Nürburgring
+,2006,4,01:15.1,British Grand Prix,Circuit de Nevers Magny-Cours
+,2006,4,01:14.1,Canadian Grand Prix,Hockenheimring
+,2006,6,01:19.6,United States Grand Prix,Hungaroring
+,2006,6,01:21.3,French Grand Prix,Autodromo Nazionale di Monza
+,2006,1,01:29.6,German Grand Prix,Suzuka Circuit
+,2006,1,01:33.6,Hungarian Grand Prix,Sepang International Circuit
+,2006,6,01:13.6,Turkish Grand Prix,Circuit de Monaco
+,2006,1,01:22.6,Italian Grand Prix,Autodromo Enzo e Dino Ferrari
+,2006,4,01:14.6,Chinese Grand Prix,Circuit de Barcelona-Catalunya
+,2006,6,01:26.9,Japanese Grand Prix,Istanbul Park
+,2006,6,01:10.6,Brazilian Grand Prix,Indianapolis Motor Speedway
+,2007,6,01:25.6,Australian Grand Prix,Albert Park Grand Prix Circuit
+,2007,6,01:32.652,Malaysian Grand Prix,Bahrain International Circuit
+,2007,6,01:45.1,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2007,6,01:11.9,Spanish Grand Prix,Autódromo José Carlos Pace
+,2007,1,01:19.4,Monaco Grand Prix,Silverstone Circuit
+,2007,1,01:15.5,Canadian Grand Prix,Circuit Gilles Villeneuve
+,2007,1,01:35.8,United States Grand Prix,Shanghai International Circuit
+,2007,6,01:31.2,French Grand Prix,Nürburgring
+,2007,1,01:14.8,British Grand Prix,Circuit de Nevers Magny-Cours
+,2007,6,01:19.7,European Grand Prix,Hungaroring
+,2007,1,01:21.4,Hungarian Grand Prix,Autodromo Nazionale di Monza
+,2007,6,01:24.8,Turkish Grand Prix,Fuji Speedway
+,2007,1,01:34.5,Italian Grand Prix,Sepang International Circuit
+,2007,6,01:15.4,Belgian Grand Prix,Circuit de Monaco
+,2007,1,01:20.6,Japanese Grand Prix,Circuit de Barcelona-Catalunya
+,2007,1,01:27.0,Chinese Grand Prix,Istanbul Park
+,2007,6,01:12.1,Brazilian Grand Prix,Indianapolis Motor Speedway
+,2008,1,01:25.2,Australian Grand Prix,Albert Park Grand Prix Circuit
+,2008,6,01:31.7,Malaysian Grand Prix,Bahrain International Circuit
+,2008,2,01:46.1,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2008,6,01:11.8,Spanish Grand Prix,Autódromo José Carlos Pace
+,2008,6,01:19.6,Turkish Grand Prix,Silverstone Circuit
+,2008,6,01:16.9,Monaco Grand Prix,Circuit Gilles Villeneuve
+,2008,1,01:34.9,Canadian Grand Prix,Shanghai International Circuit
+,2008,6,01:37.9,French Grand Prix,Valencia Street Circuit
+,2008,1,01:15.1,British Grand Prix,Circuit de Nevers Magny-Cours
+,2008,1,01:14.6,German Grand Prix,Hockenheimring
+,2008,1,01:19.4,Hungarian Grand Prix,Hungaroring
+,2008,6,01:35.5,European Grand Prix,Autodromo Nazionale di Monza
+,2008,1,01:17.5,Belgian Grand Prix,Fuji Speedway
+,2008,5,01:34.4,Italian Grand Prix,Sepang International Circuit
+,2008,6,01:15.1,Singapore Grand Prix,Circuit de Monaco
+,2008,1,01:44.0,Japanese Grand Prix,Marina Bay Street Circuit
+,2008,1,01:20.7,Chinese Grand Prix,Circuit de Barcelona-Catalunya
+,2008,6,01:26.0,Brazilian Grand Prix,Istanbul Park
+,2009,23,01:39.7,Australian Grand Prix,Yas Marina Circuit
+,2009,23,01:24.9,Malaysian Grand Prix,Albert Park Grand Prix Circuit
+,2009,9,01:32.7,Chinese Grand Prix,Bahrain International Circuit
+,2009,7,01:44.7,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2009,23,01:19.6,Spanish Grand Prix,Autódromo José Carlos Pace
+,2009,23,01:18.1,Monaco Grand Prix,Silverstone Circuit
+,2009,9,01:35.1,Turkish Grand Prix,Shanghai International Circuit
+,2009,9,01:38.2,British Grand Prix,Valencia Street Circuit
+,2009,9,01:31.3,German Grand Prix,Nürburgring
+,2009,4,01:20.8,Hungarian Grand Prix,Hungaroring
+,2009,1,01:23.0,European Grand Prix,Autodromo Nazionale di Monza
+,2009,10,01:30.3,Belgian Grand Prix,Suzuka Circuit
+,2009,1,01:33.8,Italian Grand Prix,Sepang International Circuit
+,2009,1,01:14.9,Singapore Grand Prix,Circuit de Monaco
+,2009,9,01:46.7,Japanese Grand Prix,Marina Bay Street Circuit
+,2009,23,01:20.2,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2009,1,01:27.0,Abu Dhabi Grand Prix,Istanbul Park
+,2010,9,01:39.4,Bahrain Grand Prix,Yas Marina Circuit
+,2010,9,01:23.9,Australian Grand Prix,Albert Park Grand Prix Circuit
+,2010,9,01:53.9,Malaysian Grand Prix,Bahrain International Circuit
+,2010,9,01:45.8,Chinese Grand Prix,Circuit de Spa-Francorchamps
+,2010,9,01:14.5,Spanish Grand Prix,Autódromo José Carlos Pace
+,2010,9,01:29.6,Monaco Grand Prix,Silverstone Circuit
+,2010,9,01:15.1,Turkish Grand Prix,Circuit Gilles Villeneuve
+,2010,1,01:34.6,Canadian Grand Prix,Shanghai International Circuit
+,2010,9,01:37.6,European Grand Prix,Valencia Street Circuit
+,2010,9,01:13.8,British Grand Prix,Hockenheimring
+,2010,9,01:18.8,German Grand Prix,Hungaroring
+,2010,9,01:22.0,Hungarian Grand Prix,Autodromo Nazionale di Monza
+,2010,9,01:30.8,Belgian Grand Prix,Suzuka Circuit
+,2010,6,01:35.6,Italian Grand Prix,Korean International Circuit
+,2010,6,01:48.2,Singapore Grand Prix,Sepang International Circuit
+,2010,9,01:13.8,Japanese Grand Prix,Circuit de Monaco
+,2010,9,01:45.4,Korean Grand Prix,Marina Bay Street Circuit
+,2010,3,01:20.0,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2010,9,01:26.3,Abu Dhabi Grand Prix,Istanbul Park
+,2011,9,01:38.5,Australian Grand Prix,Yas Marina Circuit
+,2011,9,01:23.5,Malaysian Grand Prix,Albert Park Grand Prix Circuit
+,2011,9,01:48.3,Chinese Grand Prix,Circuit de Spa-Francorchamps
+,2011,9,01:11.9,Turkish Grand Prix,Autódromo José Carlos Pace
+,2011,9,01:30.4,Spanish Grand Prix,Silverstone Circuit
+,2011,9,01:13.0,Monaco Grand Prix,Circuit Gilles Villeneuve
+,2011,9,01:33.7,Canadian Grand Prix,Shanghai International Circuit
+,2011,9,01:37.0,European Grand Prix,Valencia Street Circuit
+,2011,9,01:30.1,British Grand Prix,Nürburgring
+,2011,9,01:19.8,German Grand Prix,Hungaroring
+,2011,9,01:24.2,Hungarian Grand Prix,Buddh International Circuit
+,2011,9,01:22.3,Belgian Grand Prix,Autodromo Nazionale di Monza
+,2011,9,01:30.5,Italian Grand Prix,Suzuka Circuit
+,2011,9,01:35.8,Singapore Grand Prix,Korean International Circuit
+,2011,9,01:34.9,Japanese Grand Prix,Sepang International Circuit
+,2011,1,01:13.6,Korean Grand Prix,Circuit de Monaco
+,2011,9,01:44.4,Indian Grand Prix,Marina Bay Street Circuit
+,2011,9,01:21.0,Abu Dhabi Grand Prix,Circuit de Barcelona-Catalunya
+,2011,9,01:25.0,Brazilian Grand Prix,Istanbul Park
+,2012,1,01:40.6,Australian Grand Prix,Yas Marina Circuit
+,2012,1,01:24.9,Malaysian Grand Prix,Albert Park Grand Prix Circuit
+,2012,131,01:32.4,Chinese Grand Prix,Bahrain International Circuit
+,2012,9,01:47.6,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2012,1,01:12.5,Spanish Grand Prix,Autódromo José Carlos Pace
+,2012,131,01:46.5,Monaco Grand Prix,Silverstone Circuit
+,2012,9,01:13.8,Canadian Grand Prix,Circuit Gilles Villeneuve
+,2012,9,01:35.1,European Grand Prix,Shanghai International Circuit
+,2012,6,01:38.1,British Grand Prix,Valencia Street Circuit
+,2012,6,01:16.1,German Grand Prix,Hockenheimring
+,2012,1,01:21.0,Hungarian Grand Prix,Hungaroring
+,2012,1,01:25.3,Belgian Grand Prix,Buddh International Circuit
+,2012,1,01:24.0,Italian Grand Prix,Autodromo Nazionale di Monza
+,2012,1,01:30.8,Singapore Grand Prix,Suzuka Circuit
+,2012,9,01:37.2,Japanese Grand Prix,Korean International Circuit
+,2012,9,01:36.2,Korean Grand Prix,Sepang International Circuit
+,2012,9,01:14.3,Indian Grand Prix,Circuit de Monaco
+,2012,1,01:46.4,Abu Dhabi Grand Prix,Marina Bay Street Circuit
+,2012,9,01:21.7,United States Grand Prix,Circuit de Barcelona-Catalunya
+,2012,1,01:35.7,Brazilian Grand Prix,Circuit of the Americas
+,2013,9,01:40.0,Australian Grand Prix,Yas Marina Circuit
+,2013,9,01:27.4,Malaysian Grand Prix,Albert Park Grand Prix Circuit
+,2013,131,01:32.3,Chinese Grand Prix,Bahrain International Circuit
+,2013,131,01:49.1,Bahrain Grand Prix,Circuit de Spa-Francorchamps
+,2013,131,01:25.4,Spanish Grand Prix,Autódromo José Carlos Pace
+,2013,131,01:29.6,Monaco Grand Prix,Silverstone Circuit
+,2013,9,01:22.3,Canadian Grand Prix,Circuit Gilles Villeneuve
+,2013,131,01:34.5,British Grand Prix,Shanghai International Circuit
+,2013,131,01:29.4,German Grand Prix,Nürburgring
+,2013,131,01:19.4,Hungarian Grand Prix,Hungaroring
+,2013,131,01:24.1,Belgian Grand Prix,Buddh International Circuit
+,2013,9,01:23.8,Italian Grand Prix,Autodromo Nazionale di Monza
+,2013,9,01:30.9,Singapore Grand Prix,Suzuka Circuit
+,2013,9,01:37.2,Korean Grand Prix,Korean International Circuit
+,2013,9,01:37.2,Japanese Grand Prix,Sepang International Circuit
+,2013,9,01:13.9,Indian Grand Prix,Circuit de Monaco
+,2013,9,01:42.8,Abu Dhabi Grand Prix,Marina Bay Street Circuit
+,2013,9,01:20.7,United States Grand Prix,Circuit de Barcelona-Catalunya
+,2013,9,01:36.3,Brazilian Grand Prix,Circuit of the Americas
+,2014,131,01:40.5,Australian Grand Prix,Yas Marina Circuit
+,2014,131,01:31.7,Malaysian Grand Prix,Albert Park Grand Prix Circuit
+,2014,131,01:08.8,Bahrain Grand Prix,Red Bull Ring
+,2014,131,01:33.2,Chinese Grand Prix,Bahrain International Circuit
+,2014,131,02:05.6,Spanish Grand Prix,Circuit de Spa-Francorchamps
+,2014,131,01:10.0,Monaco Grand Prix,Autódromo José Carlos Pace
+,2014,131,01:35.2,Canadian Grand Prix,Silverstone Circuit
+,2014,3,01:14.9,Austrian Grand Prix,Circuit Gilles Villeneuve
+,2014,131,01:53.9,British Grand Prix,Shanghai International Circuit
+,2014,131,01:16.5,German Grand Prix,Hockenheimring
+,2014,131,01:22.7,Hungarian Grand Prix,Hungaroring
+,2014,131,01:24.1,Belgian Grand Prix,Autodromo Nazionale di Monza
+,2014,131,01:32.5,Italian Grand Prix,Suzuka Circuit
+,2014,131,01:57.2,Singapore Grand Prix,Sepang International Circuit
+,2014,131,01:16.0,Japanese Grand Prix,Circuit de Monaco
+,2014,131,01:38.3,Russian Grand Prix,Sochi Autodrom
+,2014,131,01:45.7,United States Grand Prix,Marina Bay Street Circuit
+,2014,131,01:25.2,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2014,131,01:36.1,Abu Dhabi Grand Prix,Circuit of the Americas
+,2015,131,01:40.2,Australian Grand Prix,Yas Marina Circuit
+,2015,131,01:26.3,Malaysian Grand Prix,Albert Park Grand Prix Circuit
+,2015,131,01:08.5,Chinese Grand Prix,Red Bull Ring
+,2015,131,01:32.6,Bahrain Grand Prix,Bahrain International Circuit
+,2015,131,01:47.2,Spanish Grand Prix,Circuit de Spa-Francorchamps
+,2015,131,01:11.3,Monaco Grand Prix,Autódromo José Carlos Pace
+,2015,131,01:32.2,Canadian Grand Prix,Silverstone Circuit
+,2015,131,01:14.4,Austrian Grand Prix,Circuit Gilles Villeneuve
+,2015,131,01:35.8,British Grand Prix,Shanghai International Circuit
+,2015,131,01:22.0,Hungarian Grand Prix,Hungaroring
+,2015,131,01:23.4,Belgian Grand Prix,Autodromo Nazionale di Monza
+,2015,131,01:32.6,Italian Grand Prix,Suzuka Circuit
+,2015,6,01:39.3,Singapore Grand Prix,Sepang International Circuit
+,2015,131,01:19.5,Japanese Grand Prix,Autódromo Hermanos Rodríguez
+,2015,131,01:15.1,Russian Grand Prix,Circuit de Monaco
+,2015,131,01:37.1,United States Grand Prix,Sochi Autodrom
+,2015,131,01:43.9,Mexican Grand Prix,Marina Bay Street Circuit
+,2015,131,01:24.7,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2015,131,01:56.7,Abu Dhabi Grand Prix,Circuit of the Americas
+,2016,131,01:38.8,Australian Grand Prix,Yas Marina Circuit
+,2016,131,01:23.8,Bahrain Grand Prix,Albert Park Grand Prix Circuit
+,2016,131,01:06.2,Chinese Grand Prix,Red Bull Ring
+,2016,131,01:29.5,Russian Grand Prix,Bahrain International Circuit
+,2016,131,01:46.7,Spanish Grand Prix,Circuit de Spa-Francorchamps
+,2016,9,01:10.7,Monaco Grand Prix,Autódromo José Carlos Pace
+,2016,131,01:29.2,Canadian Grand Prix,Silverstone Circuit
+,2016,131,01:12.8,European Grand Prix,Circuit Gilles Villeneuve
+,2016,131,01:35.4,Austrian Grand Prix,Shanghai International Circuit
+,2016,131,01:42.5,British Grand Prix,Baku City Circuit
+,2016,131,01:14.4,Hungarian Grand Prix,Hockenheimring
+,2016,131,01:20.0,German Grand Prix,Hungaroring
+,2016,131,01:21.1,Belgian Grand Prix,Autodromo Nazionale di Monza
+,2016,131,01:30.6,Italian Grand Prix,Suzuka Circuit
+,2016,131,01:32.8,Singapore Grand Prix,Sepang International Circuit
+,2016,131,01:18.7,Malaysian Grand Prix,Autódromo Hermanos Rodríguez
+,2016,131,01:13.6,Japanese Grand Prix,Circuit de Monaco
+,2016,131,01:35.3,United States Grand Prix,Sochi Autodrom
+,2016,131,01:42.6,Mexican Grand Prix,Marina Bay Street Circuit
+,2016,131,01:22.0,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2016,131,01:35.0,Abu Dhabi Grand Prix,Circuit of the Americas
+,2017,131,01:36.2,Australian Grand Prix,Yas Marina Circuit
+,2017,131,01:22.2,Chinese Grand Prix,Albert Park Grand Prix Circuit
+,2017,131,01:04.3,Bahrain Grand Prix,Red Bull Ring
+,2017,6,01:40.6,Russian Grand Prix,Baku City Circuit
+,2017,131,01:28.8,Spanish Grand Prix,Bahrain International Circuit
+,2017,6,01:42.6,Monaco Grand Prix,Circuit de Spa-Francorchamps
+,2017,131,01:08.3,Canadian Grand Prix,Autódromo José Carlos Pace
+,2017,131,01:26.6,Azerbaijan Grand Prix,Silverstone Circuit
+,2017,131,01:11.5,Austrian Grand Prix,Circuit Gilles Villeneuve
+,2017,131,01:31.7,British Grand Prix,Shanghai International Circuit
+,2017,6,01:16.3,Hungarian Grand Prix,Hungaroring
+,2017,131,01:34.7,Belgian Grand Prix,Autodromo Nazionale di Monza
+,2017,131,01:27.3,Italian Grand Prix,Suzuka Circuit
+,2017,6,01:30.1,Singapore Grand Prix,Sepang International Circuit
+,2017,131,01:16.5,Malaysian Grand Prix,Autódromo Hermanos Rodríguez
+,2017,131,01:12.2,Japanese Grand Prix,Circuit de Monaco
+,2017,131,01:33.2,United States Grand Prix,Sochi Autodrom
+,2017,6,01:39.5,Mexican Grand Prix,Marina Bay Street Circuit
+,2017,131,01:19.1,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2017,131,01:33.1,Abu Dhabi Grand Prix,Circuit of the Americas
+,2018,131,01:34.794,Australian Grand Prix,Yas Marina Circuit
+,2018,6,01:21.2,Bahrain Grand Prix,Albert Park Grand Prix Circuit
+,2018,6,01:03.1,Chinese Grand Prix,Red Bull Ring
+,2018,6,01:41.5,Azerbaijan Grand Prix,Baku City Circuit
+,2018,131,01:28.0,Spanish Grand Prix,Bahrain International Circuit
+,2018,9,01:41.6,Monaco Grand Prix,Circuit de Spa-Francorchamps
+,2018,6,01:07.3,Canadian Grand Prix,Autódromo José Carlos Pace
+,2018,131,01:25.9,French Grand Prix,Silverstone Circuit
+,2018,131,01:10.8,Austrian Grand Prix,Circuit Gilles Villeneuve
+,2018,131,01:31.1,British Grand Prix,Shanghai International Circuit
+,2018,6,01:30.0,German Grand Prix,Circuit Paul Ricard
+,2018,131,01:11.2,Hungarian Grand Prix,Hockenheimring
+,2018,131,01:17.4,Belgian Grand Prix,Hungaroring
+,2018,6,01:19.1,Italian Grand Prix,Autodromo Nazionale di Monza
+,2018,131,01:27.8,Singapore Grand Prix,Suzuka Circuit
+,2018,131,01:14.759,Russian Grand Prix,Autódromo Hermanos Rodríguez
+,2018,131,01:10.8,Japanese Grand Prix,Circuit de Monaco
+,2018,131,01:31.4,United States Grand Prix,Sochi Autodrom
+,2018,9,01:36.0,Mexican Grand Prix,Marina Bay Street Circuit
+,2018,131,01:16.2,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2018,131,01:32.2,Abu Dhabi Grand Prix,Circuit of the Americas
+,2019,131,01:34.779,Australian Grand Prix,Yas Marina Circuit
+,2019,6,01:20.5,Bahrain Grand Prix,Albert Park Grand Prix Circuit
+,2019,131,01:03.0,Chinese Grand Prix,Red Bull Ring
+,2019,131,01:40.5,Azerbaijan Grand Prix,Baku City Circuit
+,2019,131,01:27.9,Spanish Grand Prix,Bahrain International Circuit
+,2019,131,01:42.5,Monaco Grand Prix,Circuit de Spa-Francorchamps
+,2019,6,01:07.5,Canadian Grand Prix,Autódromo José Carlos Pace
+,2019,131,01:25.1,French Grand Prix,Silverstone Circuit
+,2019,6,01:10.2,Austrian Grand Prix,Circuit Gilles Villeneuve
+,2019,131,01:31.5,British Grand Prix,Shanghai International Circuit
+,2019,131,01:28.3,German Grand Prix,Circuit Paul Ricard
+,2019,9,01:11.8,Hungarian Grand Prix,Hockenheimring
+,2019,6,01:14.6,Belgian Grand Prix,Hungaroring
+,2019,6,01:19.3,Italian Grand Prix,Autodromo Nazionale di Monza
+,2019,6,01:27.1,Singapore Grand Prix,Suzuka Circuit
+,2019,6,01:15.024,Russian Grand Prix,Autódromo Hermanos Rodríguez
+,2019,6,01:10.2,Japanese Grand Prix,Circuit de Monaco
+,2019,9,01:31.6,Mexican Grand Prix,Sochi Autodrom
+,2019,131,01:36.2,United States Grand Prix,Marina Bay Street Circuit
+,2019,9,01:15.4,Brazilian Grand Prix,Circuit de Barcelona-Catalunya
+,2019,131,01:32.0,Abu Dhabi Grand Prix,Circuit of the Americas
+,2020,131,01:35.2,Hungarian Grand Prix,Yas Marina Circuit
+,2020,131,01:24.3,British Grand Prix,Silverstone Circuit
+,2020,131,01:02.9,Spanish Grand Prix,Red Bull Ring
+,2020,131,01:27.3,Belgian Grand Prix,Bahrain International Circuit
+,2020,131,01:41.3,Italian Grand Prix,Circuit de Spa-Francorchamps
+,2020,131,01:25.3,Tuscan Grand Prix,Nürburgring
+,2020,131,01:13.6,Russian Grand Prix,Autodromo Enzo e Dino Ferrari
+,2020,131,01:13.4,Eifel Grand Prix,Hungaroring
+,2020,131,01:18.9,Portuguese Grand Prix,Autodromo Nazionale di Monza
+,2020,131,01:16.7,Emilia Romagna Grand Prix,Autódromo Internacional do Algarve
+,2020,211,01:31.3,Turkish Grand Prix,Sochi Autodrom
+,2020,131,00:53.4,Bahrain Grand Prix,Bahrain International Circuit 1
+,2020,131,01:15.6,Sakhir Grand Prix,Circuit de Barcelona-Catalunya
+,2020,9,01:47.8,Abu Dhabi Grand Prix,Istanbul Park
+,2020,,01:15.1,,Autodromo Internazionale del Mugello
